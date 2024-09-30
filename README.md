@@ -73,7 +73,7 @@ In civil engineering, detecting concrete cracks is essential for maintaining str
   - Test Accuracy: 82.02%  
   - F1 Score: 0.77  
   - ROC AUC: 0.59  
-  - **Note:** Misclassifications led to lower performance.
+  - **Note:** Mislabelling present in dataset led to lower performance.
 
 ---
 
