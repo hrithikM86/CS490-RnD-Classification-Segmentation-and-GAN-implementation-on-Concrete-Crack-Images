@@ -1,6 +1,6 @@
 # CS 490: Research and Development Project
 **Project Title:** Classification, Segmentation, and GAN Implementation on Concrete Crack Images  
-**Student:** Hrithik Mhatre (Roll No. 210040092)  
+**Student:** HRITHIK MHATRE (Roll No. 210040092) and VAMSHIKA SUTAR (210010069)
 **Supervisors:** Prof. Abir De and Prof. Alankar Alankar  
 **Department:** Civil Engineering, IIT Bombay  
 **Date:** April, 2024  
