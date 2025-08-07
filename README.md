@@ -4,11 +4,8 @@
 
 | **Student**         | Hrithik Mhatre (Roll No. 210040092) & Vamshika Sutar (210010069) |  
 | **Supervisors**     | Prof. Abir De (Dept. of CSE, IIT Bombay) & Prof. Alankar Alankar (CMInDS, IIT Bombay) |  
-| **Department**      | Civil Engineering, IIT Bombay |  
-| **Date**           | April 2024 |  
-| **GitHub**         | [CS-490-RND Repository](https://github.com/hrithikM86/CS-490-RND) |  
+| **Department**      | Civil Engineering, IIT Bombay |    
 
----
 ---
 
 ## Table of Contents
