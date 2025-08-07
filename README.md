@@ -1,8 +1,8 @@
 # CS 490: Research and Development Project
 
 ## **Classification, Segmentation, and GAN Implementation on Concrete Crack Images**  
+## **Hrithik Mhatre and Vamshika Sutar**  
 
-| **Student**         | Hrithik Mhatre (Roll No. 210040092) & Vamshika Sutar (210010069) |  
 | **Supervisors**     | Prof. Abir De (Dept. of CSE, IIT Bombay) & Prof. Alankar Alankar (CMInDS, IIT Bombay) |  
 | **Department**      | Civil Engineering, IIT Bombay |    
 
